@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DB_USERS>
+    <User>
+        <Name>Francesco89</Name>
+        <Private_key_path>../Client/DB_users_private_keys/rsa_privkey_Francesco89.pem</Private_key_path>
+    </User>
+    <User>
+        <Name>Marta98</Name>
+        <Private_key_path>../Client/DB_users_private_keys/rsa_privkey_Marta98.pem</Private_key_path>
+    </User>
+    <User>
+        <Name>Filippo95</Name>
+        <Private_key_path>../Client/DB_users_private_keys/rsa_privkey_Filippo95.pem</Private_key_path>
+    </User>
+    <User>
+        <Name>Giulia56</Name>
+        <Private_key_path>../Client//DB_users_private_keys/rsa_privkey_Giulia56.pem</Private_key_path>
+    </User>
+
+</DB_USERS>

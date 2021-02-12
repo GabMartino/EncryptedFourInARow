@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+<SERVER_PARAMS>
+    <IP_ADDRESS>127.0.0.1</IP_ADDRESS>
+    <PORT>8080</PORT>
+</SERVER_PARAMS>
+
